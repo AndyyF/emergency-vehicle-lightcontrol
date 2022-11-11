@@ -52,7 +52,8 @@ Legend:     #   stands for  50ms
 
 # Sample vehicle
 
-![samplecar]https://github.com/AndyyF/emergency-vehicle-lightcontrol/blob/main/emergency_vehicle_light/pictures/samplecar1.jpeg "samplecar")
+<img src="https://github.com/AndyyF/emergency-vehicle-lightcontrol/blob/main/emergency_vehicle_light/pictures/samplecar1.jpeg?raw=true" alt="samplecar" title="samplecar" width="400"/>
+
 
 ### Disclaimer
 All used links in this project are affiliate links. This means that you support me as a programmer with no additional costs for you. – Thanks :)
