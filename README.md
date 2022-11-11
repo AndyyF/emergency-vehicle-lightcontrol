@@ -50,6 +50,10 @@ Legend:     #   stands for  50ms
           14#   stands for 700ms
 ```
 
+# Sample vehicle
+
+![samplecar]https://github.com/AndyyF/emergency-vehicle-lightcontrol/blob/main/emergency_vehicle_light/pictures/samplecar1.jpeg "samplecar")
+
 ### Disclaimer
 All used links in this project are affiliate links. This means that you support me as a programmer with no additional costs for you. – Thanks :)
 
